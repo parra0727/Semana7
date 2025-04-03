@@ -1,0 +1,27 @@
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50pt;
+}
+body{
+    background-color: rgb(222, 123, 123);
+}
+
+p {
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 20pt;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: justify;
+    font-size: 30pt;
+}
+
+footer p {
+    color: blue;
+    text-align: justify;
+    font-size: 20pt;
+}
+
